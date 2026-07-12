@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie17WZIT4xLxtTS1RhLAw0WmnHH5dtjktoPL1fYd0iGmuJbrOSSWk_QYfAUb1IYRxlndL-EQ0eWb7LqSODG6JosTjs6nPllPevEslT0_pSRKLc1r5Qs2zyXs6GMyFd6hr5K1XIJMJCzCw/s1600/mega+man+3.gif" width='60'/> Olá! Eu sou Lucas</h1>
-<h2 align="center">Aqui compartilho meus estudos e projetos enquanto evoluo na área de desenvolvimento 🚀</h2>
+<h3 align="center" >Aqui compartilho meus estudos e projetos enquanto evoluo na área de desenvolvimento 🚀</h3>
 <p align="center">
 Programadora Júnior • Tecnologia da Informação
 </p>
